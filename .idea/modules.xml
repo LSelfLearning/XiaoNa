@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/XiaoNa.iml" filepath="$PROJECT_DIR$/XiaoNa.iml" />
       <module fileurl="file://$PROJECT_DIR$/baseAdapterlibrary/baseAdapterlibrary.iml" filepath="$PROJECT_DIR$/baseAdapterlibrary/baseAdapterlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseAdaptersample/baseAdaptersample.iml" filepath="$PROJECT_DIR$/baseAdaptersample/baseAdaptersample.iml" />
       <module fileurl="file://$PROJECT_DIR$/speechDemo/speechDemo.iml" filepath="$PROJECT_DIR$/speechDemo/speechDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiaona/xiaona.iml" filepath="$PROJECT_DIR$/xiaona/xiaona.iml" />
     </modules>

@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/baseAdapterlibrary" />
+            <option value="$PROJECT_DIR$/baseAdaptersample" />
             <option value="$PROJECT_DIR$/speechDemo" />
             <option value="$PROJECT_DIR$/xiaona" />
           </set>

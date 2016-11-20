@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\GitHub\\XiaoNa\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\iatdemo.xml",
+        "source": "F:\\GitHub\\XiaoNa\\speechDemo\\src\\main\\res\\layout\\iatdemo.xml"
+    },
+    {
         "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\layout\\main.xml"
     },
@@ -12,8 +16,28 @@
         "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\layout\\isrdemo.xml"
     },
     {
+        "merged": "F:\\GitHub\\XiaoNa\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "F:\\GitHub\\XiaoNa\\speechDemo\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\XiaoNa\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\ttsdemo.xml",
+        "source": "F:\\GitHub\\XiaoNa\\speechDemo\\src\\main\\res\\layout\\ttsdemo.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\XiaoNa\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\GitHub\\XiaoNa\\speechDemo\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\XiaoNa\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\understander.xml",
+        "source": "F:\\GitHub\\XiaoNa\\speechDemo\\src\\main\\res\\layout\\understander.xml"
+    },
+    {
         "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
         "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\XiaoNa\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\isrdemo.xml",
+        "source": "F:\\GitHub\\XiaoNa\\speechDemo\\src\\main\\res\\layout\\isrdemo.xml"
     },
     {
         "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\iatdemo.xml",
@@ -24,11 +48,19 @@
         "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\layout\\isedemo.xml"
     },
     {
+        "merged": "F:\\GitHub\\XiaoNa\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_items.xml",
+        "source": "F:\\GitHub\\XiaoNa\\speechDemo\\src\\main\\res\\layout\\list_items.xml"
+    },
+    {
         "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_items.xml",
         "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\layout\\list_items.xml"
     },
     {
         "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\ttsdemo.xml",
         "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\layout\\ttsdemo.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\XiaoNa\\speechDemo\\build\\intermediates\\res\\merged\\debug\\layout\\isedemo.xml",
+        "source": "F:\\GitHub\\XiaoNa\\speechDemo\\src\\main\\res\\layout\\isedemo.xml"
     }
 ]
