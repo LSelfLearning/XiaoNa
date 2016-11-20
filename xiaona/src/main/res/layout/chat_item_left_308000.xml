@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/chat_item_left308000_tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="2014-12-12 15:08:00"
+        android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="15dp"
+        android:gravity="left|top"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/chat_item_left"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/chat_item_left_msg_bg_normal"
+            android:orientation="vertical"
+            android:paddingLeft="25dp">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="120dp">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/menu_toppic"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="亲，已帮您找到菜谱信息"
+                    android:background="#44000000"
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    android:padding="3dp"
+                    android:layout_alignParentBottom="true"/>
+            </RelativeLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="5"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                <TextView
+                    android:id="@+id/chat_item_left308000_tv_menuname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="鱼香肉丝"/>
+                <TextView
+                    android:id="@+id/chat_item_left308000_tv_menu_info"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="猪肉、鱼香肉丝调料 | 香菇、木耳、红萝卜、黄酒、玉米淀粉、盐"/>
+                </LinearLayout>
+                <ImageView
+                    android:id="@+id/chat_item_left308000_iv_menuicon"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/menu_default"/>
+            </LinearLayout>
+            <TextView
+                android:id="@+id/chat_item_left308000_tv_menudetailurl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="点击跳转到网页"
+                android:textSize="16sp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="3dp"
+                android:textColor="#023ADC"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

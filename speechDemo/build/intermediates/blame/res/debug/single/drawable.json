@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_setting_btn_np.xml",
+        "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\drawable\\main_setting_btn_np.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg_color.xml",
+        "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\drawable\\list_bg_color.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_p.png",
+        "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\drawable\\setting_p.png"
+    }
+]

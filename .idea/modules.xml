@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XiaoNa.iml" filepath="$PROJECT_DIR$/XiaoNa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseAdapterlibrary/baseAdapterlibrary.iml" filepath="$PROJECT_DIR$/baseAdapterlibrary/baseAdapterlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speechDemo/speechDemo.iml" filepath="$PROJECT_DIR$/speechDemo/speechDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaona/xiaona.iml" filepath="$PROJECT_DIR$/xiaona/xiaona.iml" />
+    </modules>
+  </component>
+</project>
