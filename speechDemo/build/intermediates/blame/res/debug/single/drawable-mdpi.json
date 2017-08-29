@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\GitHub\\XiaoNa\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "E:\\GitHub\\XiaoNa\\speechDemo\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
         "merged": "F:\\GitHub\\SelfNews\\speechDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
         "source": "F:\\GitHub\\SelfNews\\speechDemo\\src\\main\\res\\drawable-mdpi\\icon.png"
     },
